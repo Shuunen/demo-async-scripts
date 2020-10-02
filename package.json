@@ -1,0 +1,23 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Shuunen/demo-async-scripts/issues"
+  },
+  "description": "",
+  "devDependencies": {
+    "servor": "^4.0.2"
+  },
+  "homepage": "https://github.com/Shuunen/demo-async-scripts#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "demo-async-scripts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuunen/demo-async-scripts.git"
+  },
+  "scripts": {
+    "start": "servor src --reload --browse"
+  },
+  "version": "1.0.0"
+}
